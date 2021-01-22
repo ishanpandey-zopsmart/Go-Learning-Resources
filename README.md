@@ -13,6 +13,7 @@
   * [Query](https://golang.org/pkg/database/sql/#DB.Query)
   * [SQL Mock](https://github.com/DATA-DOG/go-sqlmock)
   * [Example Orders for Mock](https://github.com/DATA-DOG/go-sqlmock/blob/master/examples/orders/orders_test.go)
+  * [Truncate a table referenced by a foreign key](https://stackoverflow.com/questions/5452760/how-to-truncate-a-foreign-key-constrained-table)
   
 3. Gorilla Mux:
   * [Mux Doc](https://pkg.go.dev/github.com/gorilla/mux)
