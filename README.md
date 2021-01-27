@@ -130,3 +130,5 @@ service:
 
 6. GoLang Technology Essentials ZopSmart:
 * [Read it](https://docs.zopsmart.com/doc/technology-essentials-9RZ5dcHfel)
+* [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#variable-names)
+* [Golang Design Patterns](https://golangbyexample.com/golang-comprehensive-tutorial/)
