@@ -132,3 +132,6 @@ service:
 * [Read it](https://docs.zopsmart.com/doc/technology-essentials-9RZ5dcHfel)
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#variable-names)
 * [Golang Design Patterns](https://golangbyexample.com/golang-comprehensive-tutorial/)
+
+7. Handling Errors:
+* [Writing constant errors](https://medium.com/@smyrman/writing-constant-errors-with-go-1-13-10c4191617)
