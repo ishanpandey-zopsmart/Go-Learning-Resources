@@ -135,3 +135,6 @@ service:
 
 7. Handling Errors:
 * [Writing constant errors](https://medium.com/@smyrman/writing-constant-errors-with-go-1-13-10c4191617)
+
+8. Coverage Reports:
+* [All commands](https://blog.seriesci.com/how-to-measure-code-coverage-in-go/)
