@@ -14,6 +14,7 @@
   * [SQL Mock](https://github.com/DATA-DOG/go-sqlmock)
   * [Example Orders for Mock](https://github.com/DATA-DOG/go-sqlmock/blob/master/examples/orders/orders_test.go)
   * [Truncate a table referenced by a foreign key](https://stackoverflow.com/questions/5452760/how-to-truncate-a-foreign-key-constrained-table)
+  * [Command to create schema from schema.sql on local system]: mysql -u root -p HiringTest < /Users/ishanpandey/Desktop/hiring-portal-api/panel/db/table.sql 
   
 3. Gorilla Mux:
   * [Mux Doc](https://pkg.go.dev/github.com/gorilla/mux)
