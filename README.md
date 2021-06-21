@@ -128,14 +128,11 @@ service:
 * [Test-Scripts](https://learning.postman.com/docs/writing-scripts/test-scripts/)
 * [Testing Status Codes](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/#testing-status-codes)
 * [Testing Response Body](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/#testing-response-body)
-
-6. GoLang Technology Essentials ZopSmart:
-* [Read it](https://docs.zopsmart.com/doc/technology-essentials-9RZ5dcHfel)
 * [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#variable-names)
 * [Golang Design Patterns](https://golangbyexample.com/golang-comprehensive-tutorial/)
 
-7. Handling Errors:
+6. Handling Errors:
 * [Writing constant errors](https://medium.com/@smyrman/writing-constant-errors-with-go-1-13-10c4191617)
 
-8. Coverage Reports:
+7. Coverage Reports:
 * [All commands](https://blog.seriesci.com/how-to-measure-code-coverage-in-go/)
